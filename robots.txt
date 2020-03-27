@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/peter/sitemap.xml
+Sitemap: https://panxinbing.github.io/sitemap.xml
